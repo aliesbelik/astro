@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "EditorConfig.EditorConfig",
+        "DavidAnson.vscode-markdownlint",
+        "ms-vscode.PowerShell",
+        "richie5um2.vscode-sort-json"
+    ]
+}
