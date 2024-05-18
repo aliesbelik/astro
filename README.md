@@ -17,3 +17,5 @@ scoop install astro/<app>
 ## Apps
 
 > Only apps NOT available in `scoop bucket known` buckets.
+
+- [kstars](https://kstars.kde.org/) - A freely licensed, open source, cross-platform astronomy software by KDE.
