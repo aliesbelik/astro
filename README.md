@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/images/logo.svg" alt="orion" height="150px">
+  <img src="assets/images/logo.svg" alt="logo" width="20%">
 </div>
 
 # :stars: Astro
@@ -18,4 +18,5 @@ scoop install astro/<app>
 
 > Only apps NOT available in `scoop bucket known` buckets.
 
-- [kstars](https://kstars.kde.org/) - A freely licensed, open source, cross-platform astronomy software by KDE.
+- [kstars](https://kstars.kde.org/) - KStars by KDE, a freely licensed, open source, cross-platform astronomy software.
+- [pipp](https://web.archive.org/web/20230604160543/https://sites.google.com/site/astropipp/home) - PIPP (Planetary Imaging PreProcessor), an application designed for pre-processing planetary images before stacking them with image stacking software such as Registax.
