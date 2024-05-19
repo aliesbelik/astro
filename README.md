@@ -20,3 +20,9 @@ scoop install astro/<app>
 
 - [kstars](https://kstars.kde.org/) - KStars by KDE, a freely licensed, open source, cross-platform astronomy software.
 - [pipp](https://web.archive.org/web/20230604160543/https://sites.google.com/site/astropipp/home) - PIPP (Planetary Imaging PreProcessor), an application designed for pre-processing planetary images before stacking them with image stacking software such as Registax.
+
+## Known
+
+- [celestia](https://celestiaproject.space/) - Celestia, use `extras/celestia`.
+- [spacescape](http://alexcpeterson.com/spacescape/) - Spacescape, use `extras/spacescape`.
+- [stellarium](https://stellarium.org/) - Stellarium, use `extras/stellarium`.
