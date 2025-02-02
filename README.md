@@ -18,6 +18,7 @@ scoop install astro/<app>
 
 > Only apps NOT available in `scoop bucket known` buckets.
 
+- [astral](https://github.com/sj14/astral) - Calculations for the position of the sun and moon.
 - [astroterm](https://github.com/da-luce/astroterm) - A terminal-based star map written in C.
 - [kstars](https://kstars.kde.org/) - KStars by KDE, a freely licensed, open source, cross-platform astronomy software.
 
