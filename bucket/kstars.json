@@ -1,12 +1,12 @@
 {
-    "version": "3.7.7",
+    "version": "3.7.8",
     "description": "A freely licensed, open source, cross-platform astronomy software by KDE",
     "homepage": "https://kstars.kde.org/",
     "license": "GPL-2.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://cdn.kde.org/ci-builds/education/kstars/stable-3.7.7/windows/kstars-stable-3.7.7-8526-windows-cl-msvc2019-x86_64.7z",
-            "hash": "4407125a1f2fc40df785bbd2463e1b9fde139e22f1336110ded3f84a700947ff"
+            "url": "https://cdn.kde.org/ci-builds/education/kstars/stable-3.7.8/windows/kstars-stable-3.7.8-8882-windows-cl-msvc2022-x86_64.7z",
+            "hash": "f5860284be2c697b9fe4b80bc904ed66c805a6b444e46b255036e0b48874ff0a"
         }
     },
     "bin": "bin\\kstars.exe",
