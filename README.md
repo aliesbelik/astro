@@ -28,5 +28,6 @@ scoop install astro/<app>
 
 - [celestia](https://celestiaproject.space/) - Celestia, use `extras/celestia`.
 - [pipp](https://web.archive.org/web/20230604160543/https://sites.google.com/site/astropipp/home) - PIPP (Planetary Imaging PreProcessor), use `extras/pipp`.
-- [spacescape](http://alexcpeterson.com/spacescape/) - Spacescape, use `extras/spacescape`.
+- [spacescape](https://web.archive.org/web/20260310150844/http://alexcpeterson.com/spacescape/) - Spacescape, use `extras/spacescape`.
 - [stellarium](https://stellarium.org/) - Stellarium, use `extras/stellarium`.
+- [tracker](https://github.com/ShenMian/tracker) - Tracker, use `extras/tracker`.
