@@ -4,7 +4,7 @@
 
 # :stars: Astro
 
-Another bucket for [Scoop](https://scoop.sh/), with collection of tools for amateur astronomers and astronomy enthusiasts.
+Another bucket for [Scoop](https://scoop.sh/), with collection of tools for amateur astronomers and astrophotography enthusiasts.
 
 ## Usage
 
@@ -23,6 +23,7 @@ scoop install astro/<app>
 - [astroterm](https://github.com/da-luce/astroterm) - A terminal-based star map written in C.
 - [daylight](https://github.com/jbreckmckye/daylight) - A command-line program for tracking sunrise and sunset times.
 - [kstars](https://kstars.kde.org/) - KStars by KDE, a freely licensed, open source, cross-platform astronomy software.
+- [spacepixels](https://github.com/ppissias/SpacePixels) - A desktop and command-line FITS workflow for finding moving and transient objects in aligned astronomical image sequences.
 
 ## Known
 
