@@ -22,6 +22,7 @@ scoop install astro/<app>
 - [astrarium](https://github.com/Astrarium/Astrarium) - A free and open source desktop planetarium software for Windows.
 - [astroterm](https://github.com/da-luce/astroterm) - A terminal-based star map written in C.
 - [daylight](https://github.com/jbreckmckye/daylight) - A command-line program for tracking sunrise and sunset times.
+- [graxpert](https://github.com/Steffenhir/GraXpert) - An astronomical image processing program for extracting and removing gradients from the background of astrophotos.
 - [kstars](https://kstars.kde.org/) - KStars by KDE, a freely licensed, open source, cross-platform astronomy software.
 - [spacepixels](https://github.com/ppissias/SpacePixels) - A desktop and command-line FITS workflow for finding moving and transient objects in aligned astronomical image sequences.
 
