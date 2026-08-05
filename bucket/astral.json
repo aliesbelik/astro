@@ -1,20 +1,20 @@
 {
-    "version": "0.2.2",
+    "version": "0.2.3",
     "description": "Calculations for the position of the sun and moon",
     "homepage": "https://github.com/sj14/astral",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/sj14/astral/releases/download/v0.2.2/astral_0.2.2_windows_amd64.exe#/astral.exe",
-            "hash": "ec1c11a91fde7c35c39655483d0bfd34b88ff81541a8c2a244a49603f623dac5"
+            "url": "https://github.com/sj14/astral/releases/download/v0.2.3/astral_0.2.3_windows_amd64.exe#/astral.exe",
+            "hash": "1620118eae18b17ae0502130097b2c11519c6ca426e1b7367df4c0f47a5e1541"
         },
         "32bit": {
-            "url": "https://github.com/sj14/astral/releases/download/v0.2.2/astral_0.2.2_windows_386.exe#/astral.exe",
-            "hash": "1ceca7ba5dae5c15782cd3b2768ddbc9848cd6f2125cdd5bcbf1598ea20451fc"
+            "url": "https://github.com/sj14/astral/releases/download/v0.2.3/astral_0.2.3_windows_386.exe#/astral.exe",
+            "hash": "41f266fc4882a7e03a26e3287b9232f651dada344a8638af05c2b8b39c09fa0d"
         },
         "arm64": {
-            "url": "https://github.com/sj14/astral/releases/download/v0.2.2/astral_0.2.2_windows_arm64.exe#/astral.exe",
-            "hash": "24ff4bf47549dfae603f8ba0e1926ae9206a17b36b15d126437fe3a42233368e"
+            "url": "https://github.com/sj14/astral/releases/download/v0.2.3/astral_0.2.3_windows_arm64.exe#/astral.exe",
+            "hash": "82e3698f9ce5fd31f3585eaeeb0829ffd109be39b90a438cda420301f3582f92"
         }
     },
     "bin": "astral.exe",
