@@ -25,6 +25,7 @@ scoop install astro/<app>
 - [graxpert](https://github.com/Steffenhir/GraXpert) - An astronomical image processing program for extracting and removing gradients from the background of astrophotos.
 - [kstars](https://kstars.kde.org/) - KStars by KDE, a freely licensed, open source, cross-platform astronomy software.
 - [satdump](https://github.com/SatDump/SatDump) - A generic satellite data processing software.
+- [seti-astro-suite](https://github.com/setiastro/setiastrosuite) - An all-in-one astronomical image processing software.
 - [spacepixels](https://github.com/ppissias/SpacePixels) - A desktop and command-line FITS workflow for finding moving and transient objects in aligned astronomical image sequences.
 
 ## Known
