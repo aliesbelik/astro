@@ -5,8 +5,8 @@
     "license": "GPL-2.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://cdn.kde.org/ci-builds/education/kstars/stable-3.8.5/windows/kstars-stable-3.8.5-10811-windows-cl-msvc2022-x86_64.7z",
-            "hash": "344ddfac1327daea1fb83b0acbeebcca36f2060b4efeed3e4d47caf6f641a92a"
+            "url": "https://cdn.kde.org/ci-builds/education/kstars/stable-3.8.5/windows/kstars-stable-3.8.5-10857-windows-cl-msvc2022-x86_64.7z",
+            "hash": "aa1153868356c2caf9ee4c91ca7dc6d18a2b1e8e311ab77b4512b517c46969f7"
         }
     },
     "bin": "bin\\kstars.exe",
