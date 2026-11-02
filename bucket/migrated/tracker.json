@@ -1,0 +1,21 @@
+{
+    "version": "0.2.2",
+    "description": "A terminal-based real-time satellite tracking and orbit prediction application",
+    "homepage": "https://github.com/ShenMian/tracker",
+    "license": "Apache-2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/ShenMian/tracker/releases/download/v0.2.2/tracker-windows-x86_64.zip",
+            "hash": "39b1b8a9f8174b30ac4bf2d112df4dc9c982e94f8c252f73ecef7ddc55938f1e"
+        }
+    },
+    "bin": "tracker.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/ShenMian/tracker/releases/download/v$version/tracker-windows-x86_64.zip"
+            }
+        }
+    }
+}
