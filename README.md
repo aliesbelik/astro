@@ -22,6 +22,7 @@ scoop install astro/<app>
 - [astrarium](https://github.com/Astrarium/Astrarium) - A free and open source desktop planetarium software for Windows.
 - [astroterm](https://github.com/da-luce/astroterm) - A terminal-based star map written in C.
 - [daylight](https://github.com/jbreckmckye/daylight) - A command-line program for tracking sunrise and sunset times.
+- [gpredict](https://github.com/csete/gpredict) - A real-time satellite tracking and orbit prediction application.
 - [graxpert](https://github.com/Steffenhir/GraXpert) - An astronomical image processing program for extracting and removing gradients from the background of astrophotos.
 - [kstars](https://kstars.kde.org/) - KStars by KDE, a freely licensed, open source, cross-platform astronomy software.
 - [satdump](https://github.com/SatDump/SatDump) - A generic satellite data processing software.
@@ -34,6 +35,6 @@ scoop install astro/<app>
 - [celestia](https://celestiaproject.space/) - Celestia, use `extras/celestia`.
 - [pipp](https://web.archive.org/web/20230604160543/https://sites.google.com/site/astropipp/home) - PIPP (Planetary Imaging PreProcessor), use `extras/pipp`.
 - [siril](https://siril.org/) - Siril, use `extras/siril`.
-- [spacescape](https://web.archive.org/web/20260310150844/http://alexcpeterson.com/spacescape/) - Spacescape, use `extras/spacescape`.
+- [spacescape](http://alexcpeterson.com/spacescape/) - Spacescape, use `extras/spacescape`.
 - [stellarium](https://stellarium.org/) - Stellarium, use `extras/stellarium`.
 - [tracker](https://github.com/ShenMian/tracker) - Tracker, use `extras/tracker`.
