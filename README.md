@@ -25,6 +25,7 @@ scoop install astro/<app>
 - [gpredict](https://github.com/csete/gpredict) - A real-time satellite tracking and orbit prediction application.
 - [graxpert](https://github.com/Steffenhir/GraXpert) - An astronomical image processing program for extracting and removing gradients from the background of astrophotos.
 - [kstars](https://kstars.kde.org/) - KStars by KDE, a freely licensed, open source, cross-platform astronomy software.
+- [previsat](https://previsat.sourceforge.net/) - A satellite tracking software for observing purposes.
 - [satdump](https://github.com/SatDump/SatDump) - A generic satellite data processing software.
 - [seti-astro-suite](https://github.com/setiastro/setiastrosuite) - An all-in-one astronomical image processing software.
 - [skyroof](https://github.com/VE3NEA/SkyRoof) - A real-time amateur radio satellite tracking application with an integrated Software Defined Radio (SDR) receiver.
